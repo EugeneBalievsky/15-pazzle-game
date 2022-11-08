@@ -1,0 +1,45 @@
+﻿  main.cpp
+C:\Users\EVGENE\source\repos\15_pazzle_game\sfmlBasics\main.cpp(50,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\EVGENE\source\repos\15_pazzle_game\sfmlBasics\main.cpp(51,17): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\EVGENE\source\repos\15_pazzle_game\sfmlBasics\main.cpp(111,1): warning C4244: +=: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\EVGENE\source\repos\15_pazzle_game\sfmlBasics\main.cpp(113,34): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\EVGENE\source\repos\15_pazzle_game\sfmlBasics\main.cpp(114,34): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\EVGENE\source\repos\15_pazzle_game\sfmlBasics\main.cpp(123,20): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\EVGENE\source\repos\15_pazzle_game\sfmlBasics\main.cpp(123,40): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\EVGENE\source\repos\15_pazzle_game\sfmlBasics\main.cpp(125,1): warning C4244: -=: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\EVGENE\source\repos\15_pazzle_game\sfmlBasics\main.cpp(126,48): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\EVGENE\source\repos\15_pazzle_game\sfmlBasics\main.cpp(126,31): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\EVGENE\source\repos\15_pazzle_game\sfmlBasics\main.cpp(169,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sfmlBasics.vcxproj -> C:\Users\EVGENE\Source\Repos\15_pazzle_game\x64\Debug\sfmlBasics.exe
